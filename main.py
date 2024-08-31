@@ -16,8 +16,8 @@ def transcribe_audio(wav_file):
     return result['text'], end_time - start_time
 
 
-wav_file = "/home/felipeagger/Dados/Dev/Python/benchgpu/audio-curto-1min.wav"
-wav_file_podcast = "/home/felipeagger/Dados/Dev/Python/benchgpu/podcast13min.wav"
+wav_file = "/home/.../audio-curto-1min.wav"
+wav_file_podcast = "/home/.../podcast13min.wav"
 transcription, duration = transcribe_audio(wav_file_podcast)
 print(f"duration: {duration:.2f} seconds\n")
 print(transcription)
