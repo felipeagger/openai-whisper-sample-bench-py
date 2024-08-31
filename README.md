@@ -20,11 +20,11 @@ Duration: 61.20 seconds
 
 
 ### GPU - Model Base
-Duration: 12.52 seconds
+Duration: 4.19 seconds
 
 
 ### GPU - Model Medium
-Duration: 12.52 seconds
+Duration: 12.09 seconds
 
 ### Value
 ```
@@ -35,6 +35,9 @@ Você achava o passar de um carro de luxo e o arte é um também? Então vocês 
 
 ### CPU - Model Base
 Duration: 118.57 seconds
+
+### CPU - Model Medium
+Duration: 724.54 seconds
 
 ### GPU - Model Base
 Duration: 51.12 seconds
