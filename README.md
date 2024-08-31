@@ -4,10 +4,10 @@ ffmpeg + openai-whisper + cuda driver
 
 ### Benchmarks Setup
 
-CPU: Ryzen 5 5600
-GPU: RTX 4060 Ti 8GB
-RAM: 16GB
-O.S: Windows 10
+- CPU: Ryzen 5 5600
+- GPU: RTX 4060 Ti 8GB
+- RAM: 16GB
+- O.S: Windows 10
 
 # Benchmark Short Audio 1min PTBR
 
@@ -32,6 +32,9 @@ Você achava o passar de um carro de luxo e o arte é um também? Então vocês 
 ```
 
 # Benchmark Long Audio 13min PTBR [Link Media](https://www.youtube.com/watch?v=Q0YYA8hSV8g&pp=ygUKYWtpdGEgZmxvdw%3D%3D)
+
+### CPU - Model Base
+Duration: 118.57 seconds
 
 ### GPU - Model Base
 Duration: 51.12 seconds
